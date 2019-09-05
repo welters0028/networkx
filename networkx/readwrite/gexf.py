@@ -17,7 +17,7 @@ undirected edges together).
 Format
 ------
 GEXF is an XML format.  See https://gephi.org/gexf/format/schema.html for the
-specification and https://gephi.org/gexf/format/basic.html for examples.
+specification and https://gephi.org/gexf/format/ for examples.
 """
 import itertools
 import time
